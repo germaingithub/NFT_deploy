@@ -1,0 +1,5 @@
+{   "name": "SHIBA",
+    "description": "An adorable SHIBA pup!", 
+    "image": "ipfs://QmRkY3TgwMEDqJYM8XZiDHzZ1jhbVgDKDDXs3DcaJcPvNf?filename=shibaHeartPink.png", 
+    "attributes": [{"trait_type": "cuteness", "value": 100}]
+}
